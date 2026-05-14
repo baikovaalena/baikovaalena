@@ -26,16 +26,3 @@
 | project | description | stack |
 |---|---|---|
 | [Language Exchange](#) | platform connecting people who want to practice languages with native speakers | React · TypeScript · FSD |
-
----
-
-### 📊 github stats
-
-![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7F77DD&style=flat&label=profile+views" alt="profile views" />
-</p>
