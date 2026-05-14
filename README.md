@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F77DD&width=500&lines=hey%2C+i'm+alena+%F0%9F%91%BE;frontend+developer;react+%C2%B7+next.js+%C2%B7+typescript;turning+caffeine+into+components+%E2%98%95)](https://git.io/typing-svg)
 
-**frontend developer** · crafting pixel-perfect UIs
 > currently: turning caffeine into components ☕
 
 ---
