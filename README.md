@@ -24,4 +24,4 @@
 
 | project | description | stack |
 |---|---|---|
-| [Language Exchange](#) | platform connecting people who want to practice languages with native speakers | React · TypeScript · FSD |
+| [Language Exchange](#) | platform connecting people who want to practice languages with native speakers | Next · TypeScript · FSD |
